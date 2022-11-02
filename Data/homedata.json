@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "5b21ca3eeb7f6fbccd471818",
+    "name": "cases",
+    "number":"121"
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd471814",
+    "name": "Pilots",
+    "number":"21"
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd471820",
+    "name": "lives saved",
+    "number":"119"
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd471210",
+    "name": "distance",
+    "number":"3231km"
+  }
+]

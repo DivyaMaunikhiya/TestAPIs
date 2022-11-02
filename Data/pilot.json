@@ -1,0 +1,53 @@
+[
+  {
+    "_id": "5b21ca3eeb7f6fbccd471815",
+    "name":"sanyam",
+    "phoneNumber":"23123213",
+    "location":"hello",
+    "pic":"dasd"
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd471816",
+    "name":"divya",
+    "phoneNumber":"231321323213",
+    "location":"london",
+    "pic":"hello"
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd471817",
+    "name":"divsan",
+    "phoneNumber":"23131241234",
+    "location":"india",
+    "pic":"in"
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd471819",
+    "name":"krishan",
+    "phoneNumber":"12321434",
+    "location":"uk",
+    "pic":"dsad"
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd47181a",
+    "name":"ram",
+    "phoneNumber":"2131223213",
+    "location":"delhi",
+    "pic":"dasdas"
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd47181b",
+    "name":"seeta",
+    "phoneNumber":"21321321",
+    "location":"uk",
+    "pic":"dadad"
+  },
+  {
+    "_id": "5b21ca3eeb7f6fbccd47181e",
+    "name":"geeta",
+    "phoneNumber":"213123213",
+    "location":"lok",
+    "pic":"jadd"
+  }
+]
+
+
